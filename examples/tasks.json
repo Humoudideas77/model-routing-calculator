@@ -1,0 +1,39 @@
+{
+  "pricing_note": "example rates — edit me. $ per 1,000,000 tokens, in/out. Not real prices for any provider; check the provider's current pricing page and replace these before trusting a total.",
+  "pricing": {
+    "mid_tier": { "in": 3.00, "out": 15.00 },
+    "top_tier": { "in": 15.00, "out": 75.00 }
+  },
+  "tasks": [
+    {
+      "name": "rename variables across a module",
+      "complexity": "everyday",
+      "input_tokens": 40000,
+      "output_tokens": 8000
+    },
+    {
+      "name": "write unit tests for an existing function",
+      "complexity": "everyday",
+      "input_tokens": 60000,
+      "output_tokens": 15000
+    },
+    {
+      "name": "design the data migration plan",
+      "complexity": "judgment-heavy",
+      "input_tokens": 80000,
+      "output_tokens": 20000
+    },
+    {
+      "name": "root-cause an intermittent production bug",
+      "complexity": "judgment-heavy",
+      "input_tokens": 120000,
+      "output_tokens": 25000
+    },
+    {
+      "name": "overnight multi-file refactor across the repo",
+      "complexity": "long-unattended",
+      "input_tokens": 500000,
+      "output_tokens": 120000
+    }
+  ]
+}
