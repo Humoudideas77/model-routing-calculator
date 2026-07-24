@@ -129,3 +129,7 @@ python3 route.py examples/tasks.json
 ## الترخيص
 
 MIT — راجع `LICENSE`.
+
+---
+
+More free tools + guides: [humoudalmunawer.vercel.app](https://humoudalmunawer.vercel.app/en/#tools)
