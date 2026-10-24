@@ -132,4 +132,4 @@ MIT — راجع `LICENSE`.
 
 ---
 
-More free tools + guides: [humoudalmunawer.vercel.app](https://humoudalmunawer.vercel.app/en/#tools)
+More free tools + guides: [humoudalmunawer.com](https://humoudalmunawer.com/en/#builds)
